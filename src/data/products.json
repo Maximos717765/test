@@ -1,0 +1,72 @@
+[
+  {
+    "id": "CLK002",
+    "name": "Антикварные часы",
+    "price": 700.0,
+    "initialPrice": 700.0,
+    "state": "InStock"
+  },
+  {
+    "id": "COI003",
+    "name": "Редкая монета",
+    "price": 300.0,
+    "initialPrice": 300.0,
+    "state": "InStock"
+  },
+  {
+    "id": "SCU004",
+    "name": "Мраморная скульптура",
+    "price": 722.0,
+    "initialPrice": 722.0,
+    "state": "InStock"
+  },
+  {
+    "id": "POT008",
+    "name": "Древний горшок",
+    "price": 700.0,
+    "initialPrice": 700.0,
+    "state": "InStock"
+  },
+  {
+    "id": "TAP009",
+    "name": "Роскошный ковер",
+    "price": 650.0,
+    "initialPrice": 650.0,
+    "state": "InStock"
+  },
+  {
+    "id": "FIG010",
+    "name": "Коллекционная фигурка",
+    "price": 950.0,
+    "initialPrice": 950.0,
+    "state": "Sold"
+  },
+  {
+    "id": "STR012",
+    "name": "Старинный инструмент",
+    "price": 426.0,
+    "initialPrice": 426.0,
+    "state": "InStock"
+  },
+  {
+    "id": "GLS013",
+    "name": "Витражное стекло",
+    "price": 750.0,
+    "initialPrice": 750.0,
+    "state": "InStock"
+  },
+  {
+    "id": "CER014",
+    "name": "Антикварная керамика",
+    "price": 600.0,
+    "initialPrice": 600.0,
+    "state": "InStock"
+  },
+  {
+    "id": "MAP015",
+    "name": "Старинная карта",
+    "price": 588.0,
+    "initialPrice": 588.0,
+    "state": "InStock"
+  }
+]
